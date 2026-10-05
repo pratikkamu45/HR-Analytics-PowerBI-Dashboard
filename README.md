@@ -13,5 +13,6 @@ An end-to-end HR Analytics solution designed to provide data-driven insights int
 - **Regional Breakdown**: **Pune** emerged as the primary hub for high-performing talent.
 
 ## 📸 Dashboard Preview
-*(Screenshots attached in repository)*
+![HR Dashboard](Screenshot%202026-10-05%20093648.png)
+
 
